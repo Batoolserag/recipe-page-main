@@ -89,8 +89,9 @@ li {
   font-weight: bold;
 }
 
-th, td {
-
-  border-bottom: 1px solid #ddd;
+ .nutrition-table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
 }
 
